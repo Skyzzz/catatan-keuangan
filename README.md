@@ -10,10 +10,10 @@ Aplikasi ini adalah website catatan keuangan sederhana untuk mencatat pemasukan,
 ## Tampilan
 
 ### Dashboard
-![Dashboard](./images/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### Daftar Transaksi
-![Daftar Transaksi](./images/DaftarT ransaksi.png)
+![Daftar Transaksi](Daftar_Transaksi.png)
 
 ### Daftar Kategori
-![Daftar Kategori](./images/Daftar Kategori.png)
+![Daftar Kategori](Daftar_Kategori.png)
